@@ -1,1 +1,5 @@
-== Improve README
+== README
+<h2>Sample App</h2>
+<p>This is a sample Ruby on Rails application<br>
+  Simple Twitter Clone for learning web application development.
+</p>
