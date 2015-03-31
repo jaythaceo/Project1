@@ -1,4 +1,4 @@
 == README
 Sample App
-  This is a sae Ruby on Rails application
+  This is a simple Ruby on Rails application
   Simple Twitter Clone for learning web application development.
