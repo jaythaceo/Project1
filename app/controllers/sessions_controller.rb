@@ -1,5 +1,6 @@
 class SessionsController < ApplicationController
 
+  # Working with user_login test
   def new
   end
 
