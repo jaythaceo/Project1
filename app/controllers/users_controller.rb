@@ -46,8 +46,6 @@ class UsersController < ApplicationController
                                  :password_confirmation)
   end
 
-  # Before filter
-
   # Confirmed a logged in user
   def logged_in_user
     unless logged_in?
