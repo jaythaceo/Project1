@@ -2,3 +2,6 @@
 Sample App
   This is a simple Ruby on Rails application
   Simple Twitter Clone for learning web application development.
+  Run bundle install
+  rails s
+
